@@ -1,4 +1,4 @@
 # gitcourse
 
-Solo practicas del***curso de git***
+Solo practicas del ***curso de git***
 
