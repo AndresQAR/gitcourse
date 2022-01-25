@@ -1,3 +1,5 @@
 Contenido del fichero A 
 
 modificado otra vez uwu
+
+ahora estamos "gestionando perfiles"
